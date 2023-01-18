@@ -1,20 +1,31 @@
 {
-    "naam": "",
+    "naam": "Vocabularium en applicatieprofiel OSLO Urban Mining",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "",
-    "type_toepassing": "",
-    "categorie": "",
-    "beschrijving" : "",
-    "specificatiedocument": [],
+    "publicatiedatum": "TBD",
+    "type_toepassing": "Aanbevolen (vrijwillig)",
+    "categorie": "Vocabularium en applicatieprofielen",
+    "beschrijving" : "ap-or-voc-urbanmining.md",
+    "specificatiedocument": [
+      "verslagen": [],
     "documentatie": [],
     "charter": [],
-    "verslagen": [],
-    "presentaties": [],
-    "functioneel_toepassingsgebied": "",
+    "verslagen": [
+      {
+        "naam": "Verslag Business werkgroep - 12 januari 2023",
+        "waarde": "Verslag Business werkgroep - 12 januari 2023.pdf"
+    }
+    ],
+    "presentaties": [
+      {
+        "naam": "Presentatie Business werkgroep  - 12 januari 2023",
+        "waarde": "Presentatie Business werkgroep - 12 januari 2023.pdf"
+    }
+    ],
+    "functioneel_toepassingsgebied": "Semantische standaard voor Urban Mining",
     "organisatorisch_werkingsgebied": "",
-    "datum_van_aanmelding": "",
-    "erkenning_werkgroep_datastandaarden": "",
-    "erkenning_stuurgroep": ""
+    "datum_van_aanmelding": "TBD",
+    "erkenning_werkgroep_datastandaarden": "TBD",
+    "erkenning_stuurgroep": "TBD"
   }
